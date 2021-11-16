@@ -78,7 +78,7 @@ while True:
     if(time >= duration):
         break;
     
-    sleep(interval)# wait 5 minutes
+    sleep(interval)
     
     
 
