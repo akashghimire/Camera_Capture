@@ -1,1 +1,1 @@
-Hi, this is test program to test about the push.
+Hi, this is test program to test about the push and pull.
